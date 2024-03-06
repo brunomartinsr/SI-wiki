@@ -7,5 +7,14 @@ A wiki de sistema de informação é um projeto pessoal para web e mobile que se
 
 O projeto consiste em um site onde terá as matérias do curso de sistema de informação listadas e separadas por semestre. O usuário poderá achar ou pesquisar a matéria que deseja, assim, consultando o conteúdo da matéria em questão, ele também poderá utilizar ferramentas que o ajudarão na leitura como, marca-texto, borracha para remover o marca-texto e também poderá marcar pontos de interesse presentes no texto.
 
+#Tecnologias que serão utilizadas:
+
+##front-end
+
+HTML/CSS/Python
+
+
+
+
 
 
