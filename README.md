@@ -10,3 +10,12 @@ O projeto consiste em um site onde terá as matérias do curso de sistema de inf
 # Tecnologias que serão utilizadas:
 ## front-end
 -HTML/CSS/Python
+
+# Wireframe do projeto
+![image](https://github.com/brunomartinsr/SI-wiki/assets/139308991/58884aa6-0298-4f26-9cf6-ee7584b121bd)
+
+![image](https://github.com/brunomartinsr/SI-wiki/assets/139308991/1d095f43-b0a7-46f5-9061-327de3f0c2ca)
+
+
+
+
