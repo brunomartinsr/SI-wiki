@@ -12,12 +12,6 @@ O projeto consiste em um site onde terá as matérias do curso de sistema de inf
 
 ![image](https://github.com/brunomartinsr/SI-wiki/assets/139308991/1d095f43-b0a7-46f5-9061-327de3f0c2ca)
 
-## Layout
-
-![image](https://github.com/brunomartinsr/SI-wiki/assets/139308991/9f9bc5bd-8ed5-4c97-8612-b1d5600e1a81)
-
-![image](https://github.com/brunomartinsr/SI-wiki/assets/139308991/143ee47f-4e3a-42f2-8423-2b52448410c2)
-
 # Tecnologias que serão utilizadas:
 ## front-end
 -HTML/CSS/Python
